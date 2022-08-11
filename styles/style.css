@@ -372,10 +372,10 @@ p.description {
   color: #666;
 }
 
-.price li:before {
+/*.price li:before {
   content: '+ ';
   color: #e2311a;
-}
+}*/
 
 .price strong {
   font-size: 30px;
